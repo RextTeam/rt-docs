@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rextteam.github.io/rt-docs/blog</id>
     <title>RT Document Blog</title>
-    <updated>2022-06-16T00:00:00.000Z</updated>
+    <updated>2022-06-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rextteam.github.io/rt-docs/blog"/>
     <subtitle>RT Document Blog</subtitle>
     <icon>https://rextteam.github.io/rt-docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[現在開発中の機能]]></title>
+        <id>about</id>
+        <link href="https://rextteam.github.io/rt-docs/blog/about"/>
+        <updated>2022-06-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現在開発中の機能について]]></summary>
+        <content type="html"><![CDATA[<p>現在作成中</p>]]></content>
+        <author>
+            <name>mc_fdc</name>
+            <uri>https://mc-fdc.live</uri>
+        </author>
+        <category label="about" term="about"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自己紹介]]></title>
         <id>introduce</id>

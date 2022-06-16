@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrt_docs=self.webpackChunkrt_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u81ea\u5df1\u7d39\u4ecb","permalink":"/rt-docs/blog/introduce"},{"title":"\u3088\u3046\u3053\u305d","permalink":"/rt-docs/blog/welcome"}]}')}}]);

@@ -4,10 +4,19 @@
         <title>RT Document Blog</title>
         <link>https://rextteam.github.io/rt-docs/en/blog</link>
         <description>RT Document Blog</description>
-        <lastBuildDate>Thu, 16 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[現在開発中の機能]]></title>
+            <link>https://rextteam.github.io/rt-docs/en/blog/about</link>
+            <guid>about</guid>
+            <pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[現在開発中の機能について]]></description>
+            <content:encoded><![CDATA[<p>現在作成中</p>]]></content:encoded>
+            <category>about</category>
+        </item>
         <item>
             <title><![CDATA[自己紹介]]></title>
             <link>https://rextteam.github.io/rt-docs/en/blog/introduce</link>
