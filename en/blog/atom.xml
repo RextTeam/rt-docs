@@ -21,12 +21,12 @@
         <category label="about" term="about"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[自己紹介]]></title>
+        <title type="html"><![CDATA[introduct]]></title>
         <id>introduce</id>
         <link href="https://rextteam.github.io/rt-docs/en/blog/introduce"/>
         <updated>2022-06-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[自己紹介()]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="自己紹介">自己紹介<a class="hash-link" href="#自己紹介" title="Direct link to heading">​</a></h2><p>RTの運営をやっています、mc_fdcです。</p><p>好きな食べ物は和菓子だよお。</p>]]></content>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="自己紹介">自己紹介<a class="hash-link" href="#自己紹介" title="見出しへの直接リンク">​</a></h2><p>RTの運営をやっています、mc_fdcです。</p><p>好きな食べ物は和菓子だよお。</p>]]></content>
         <author>
             <name>mc_fdc</name>
             <uri>https://mc-fdc.live</uri>
@@ -39,7 +39,7 @@
         <link href="https://rextteam.github.io/rt-docs/en/blog/welcome"/>
         <updated>2022-06-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[概要]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="概要">概要<a class="hash-link" href="#概要" title="Direct link to heading">​</a></h2><p>開発者が主にここでブログを書いて投稿します。</p>]]></content>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="概要">概要<a class="hash-link" href="#概要" title="見出しへの直接リンク">​</a></h2><p>開発者が主にここでブログを書いて投稿します。</p>]]></content>
         <author>
             <name>mc_fdc</name>
             <uri>https://mc-fdc.live</uri>
