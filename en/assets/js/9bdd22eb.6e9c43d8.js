@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrt_docs=self.webpackChunkrt_docs||[]).push([[253],{5803:function(e){e.exports=JSON.parse('[{"label":"about","permalink":"/en/blog/tags/about","count":1},{"label":"introduce","permalink":"/en/blog/tags/introduce","count":1},{"label":"hello","permalink":"/en/blog/tags/hello","count":1}]')}}]);

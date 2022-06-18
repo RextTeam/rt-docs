@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrt_docs=self.webpackChunkrt_docs||[]).push([[480],{5786:function(t){t.exports=JSON.parse('{"permalink":"/rt-docs/en/blog/tags/introduce","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

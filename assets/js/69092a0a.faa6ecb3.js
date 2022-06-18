@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrt_docs=self.webpackChunkrt_docs||[]).push([[141],{170:function(s){s.exports=JSON.parse('{"label":"introduce","permalink":"/blog/tags/introduce","allTagsPath":"/blog/tags","count":1}')}}]);

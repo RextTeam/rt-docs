@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrt_docs=self.webpackChunkrt_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u73fe\u5728\u958b\u767a\u4e2d\u306e\u6a5f\u80fd","permalink":"/en/blog/about"},{"title":"introduct","permalink":"/en/blog/introduce"},{"title":"\u3088\u3046\u3053\u305d","permalink":"/en/blog/welcome"}]}')}}]);
