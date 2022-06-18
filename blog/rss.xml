@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>RT Document Blog</title>
-        <link>https://rextteam.github.io/blog</link>
+        <link>https://docs.rext.dev/blog</link>
         <description>RT Document Blog</description>
         <lastBuildDate>Mon, 27 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>ja</language>
         <item>
             <title><![CDATA[現在開発中の機能]]></title>
-            <link>https://rextteam.github.io/blog/about</link>
+            <link>https://docs.rext.dev/blog/about</link>
             <guid>about</guid>
             <pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[現在開発中の機能について]]></description>
@@ -19,7 +19,7 @@
         </item>
         <item>
             <title><![CDATA[自己紹介]]></title>
-            <link>https://rextteam.github.io/blog/introduce</link>
+            <link>https://docs.rext.dev/blog/introduce</link>
             <guid>introduce</guid>
             <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[自己紹介()]]></description>
@@ -28,7 +28,7 @@
         </item>
         <item>
             <title><![CDATA[ようこそ]]></title>
-            <link>https://rextteam.github.io/blog/welcome</link>
+            <link>https://docs.rext.dev/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[概要]]></description>
